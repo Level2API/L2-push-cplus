@@ -50,7 +50,7 @@
 - 编写代码，调用本地代理服务器实现的GRPC接口，接收行情消息推送
 
 
-行情工具[请点击下载](https://github.com/picklevelme/l2-push-go/tree/master/cli)，目录说明：
+行情工具[请点击下载](https://gitee.com/l2gogogo/l2-push-cplus/tree/master/cli)，目录说明：
 
 | 名称       | 说明               |
 | ---------- | ------------------ |
@@ -73,9 +73,9 @@
 
 
 
-行情接入示例（其他语言示例待提供）：
+行情接入示：
 
-- [Golang](https://github.com/picklevelme/l2-push-go)
+- [C++]((https://gitee.com/l2gogogo/l2-push-cplus)
 
 
 
